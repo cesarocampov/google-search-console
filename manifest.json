@@ -29,6 +29,10 @@
       "content": {
         "title": "Content",
         "type": "string"
+      },
+      "robotToggle": {
+        "title": "Robot Tag Toggle",
+        "type": "boolean"
       }
     }
   },
